@@ -4013,3 +4013,7 @@ input, select, textarea {
 		text-align: center;
 		margin: 5em auto;
 	}
+
+	.image.padding{
+		padding: 1em;
+	}
