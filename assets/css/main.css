@@ -113,6 +113,7 @@ img.roundPic {
 		font-weight: 400;
 		letter-spacing: 0.075em;
 		line-height: 1.65em;
+		font-display: swap;
 	}
 
 		@media screen and (max-width: 1680px) {
